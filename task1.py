@@ -1,3 +1,2 @@
-print('fixed Task1!');
-print('fixed Task1!');
-print('fixed Task1!');
+for i in range(3):
+    print('fixed Task1!')
